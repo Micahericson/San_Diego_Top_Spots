@@ -1,0 +1,2 @@
+Heading to San Diego anytime soon? Then take a look at my San Diego Top Spots project I completed as part of my skillbridge/ internship program with Creating Coding Careers. Browse the content of my latest page with an interactive list of things to do for your trip around town.
+This project brought new challenges for me as I learned to think like a consumer and breakdown a large list of data into a navigable showcase of information.
